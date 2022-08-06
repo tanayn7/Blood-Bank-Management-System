@@ -1,4 +1,4 @@
-Blood Bank Management System | HTML, CSS, JS, PHP, MYSQL
+Blood Bank Management System 🩸 | HTML, CSS, JS, PHP, MYSQL
 
 (Full Stack Development Project)
 
